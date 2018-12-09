@@ -1,0 +1,16 @@
+make a repository on github
+
+include a README, LICENSE, and .gitignore.
+
+echo "# e70.github.io" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/e70/e70.github.io.git
+git push -u origin master
+
+GitHub Pages user site
+
+this will be the content of my github pages on https://e70.github.io/ accessed as me.eniederacher.com
+
+
