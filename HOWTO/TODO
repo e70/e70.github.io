@@ -3,6 +3,9 @@ TODO
 Add a  LICENSE
 See README.md for further content related TODOs
 
+Add all READMEs to a private Bitbucket repository. Something like <https://github.com/BlackrockDigital/startbootstrap-coming-soon/blob/master/README.md> but replace the email sign-up with an access token.
+
+
 DONE
 
 echo "# e70.github.io" >> README.md
