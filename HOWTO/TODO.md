@@ -1,5 +1,7 @@
 # TODO
 
+Move HOTWO/ to private Bitbucket repository
+
 Add a  LICENSE
 See README.md for further content related TODOs
 
@@ -13,7 +15,9 @@ My OneTab contains several Cloudflare related stuff around their 1.1.1.1 DNS ser
 
 Something like <https://github.com/BlackrockDigital/startbootstrap-coming-soon/blob/master/README.md> but replace the email sign-up with an access token.
 
+## Authentication
 
+Play with okta.com, it's free and support SCIM. Goal is to distribute OTPs for guests accessing stuff (slides from presentations, photos for family)
 
 # DONE
 
